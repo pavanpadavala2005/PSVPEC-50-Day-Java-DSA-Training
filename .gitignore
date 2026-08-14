@@ -1,0 +1,78 @@
+# ============================================
+# Java / JVM Generated Files
+# ============================================
+
+# Compiled Java bytecode
+*.class
+
+# Java archives
+*.jar
+*.war
+*.ear
+
+# Java build output directories
+target/
+build/
+out/
+
+# ============================================
+# IDE Files
+# ============================================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+.nb-gradle/
+
+# ============================================
+# Operating System Files
+# ============================================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# ============================================
+# Logs / Temporary Files
+# ============================================
+
+*.log
+*.tmp
+*.temp
+
+# ============================================
+# Java Runtime / Generated Files
+# ============================================
+
+hs_err_pid*
+replay_pid*
+
+# ============================================
+# Environment / Secret Files
+# ============================================
+
+.env
+.env.*
+!.env.example
+
+
+/*.pdf

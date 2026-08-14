@@ -1,0 +1,11 @@
+This repository contains the complete learning resources from a 50-Day Campus Recruitment Training (CAT) Program conducted at PSGPEC, Chennai.
+
+It includes Java programming, problem solving, basic Data Structures, Recursion, Strings, Computer Science Fundamentals, and SQL covered throughout the training.
+
+The repository contains classroom programs, practice problems, handwritten notes, PDFs, and other reference materials used during the sessions.
+
+All resources are organized Date-wise to make learning, practice, and revision easier for students.
+
+The content is designed to help students strengthen their programming fundamentals and prepare for coding assessments and technical interviews.
+
+This repository also serves as a consolidated record of the training content and teaching work delivered throughout the 50-day program.
