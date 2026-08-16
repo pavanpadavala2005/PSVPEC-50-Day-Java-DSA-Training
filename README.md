@@ -252,6 +252,8 @@ The 50-Day training was structured to provide students with a practical foundati
 
 The resources in this repository represent the **material delivered and used during the training program**, allowing students to continue learning and revising even after the classroom sessions.
 
+---
+
 ## 📢 IMPORTANT NOTE — PAVAN'S PERSONAL RESOURCES
 
 > ## 📁 `PAVAN_Resources`
@@ -280,17 +282,6 @@ It contains my own:
 </div>
 
 </div>
-
-<style>
-@keyframes marquee {
-    0% {
-        transform: translateX(5%);
-    }
-    100% {
-        transform: translateX(-100%);
-    }
-}
-</style>
 
 ---
 
@@ -339,3 +330,4 @@ Official Training Material
 <br>
 ⭐ If you find these resources useful, consider starring the repository!
 </div>
+****
