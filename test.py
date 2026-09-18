@@ -1,25 +1,25 @@
-students = []
-import random
-rows = 5
-cols = 6
-mi = 0
-mx = rows*cols
-for i in range(mx):
-    idx = random.randrange(mi,mx)
-    person = random.choice([1,2])
-    row = idx % cols
-    col =int(idx / cols)
-    if ([row,col],person) not in students:
-        students.append(([row,col],person))
+# students = []
+# import random
+# rows = 6
+# cols = 4
+# mi = 0
+# mx = rows*cols
+# for i in range(mx):
+#     idx = random.randrange(mi,mx)
+#     # person = random.choice([1,2,3])
+#     row = idx % cols
+#     col =int(idx / cols)
+#     # if ([row,col],person) not in students:
+#     #     students.append(([row,col],person))
 
-for i in  students:
-    print(i)
-    for i in range(20):
-        print()
+# for i in  students:
+#     print(i)
+#     for i in range(20):
+#         print()
 import random
 students = []
-rows = 5
-cols = 6
+rows = 7
+cols = 4
 for row in range(rows):
     for col in range(cols):
         students.append(((row, col), 1))
