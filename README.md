@@ -86,6 +86,10 @@ The focus was not only on learning syntax, but on developing the ability to:
 
 ---
 
+## 𝄜 Syllabus
+
+<div align="center"> <img src="50_Days_Syllabus.png" alt="50 Days Syllabus" width="900"> </div>
+
 ## 📂 Repository Contents
 
 <div align="center">
